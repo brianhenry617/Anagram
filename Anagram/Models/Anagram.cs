@@ -20,7 +20,7 @@ namespace Anagram.Models
     }
     public void SetWord(string word)
     {
-      return _newWord
+      return _newWord;
     }
   }
 }

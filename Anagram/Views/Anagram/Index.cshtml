@@ -1,0 +1,14 @@
+<h1>Anagram</h1>
+<table>
+  @foreach(var newWord in Model)
+  {
+  <tr>
+    <td>@newWord.GetnewWord()</td>
+    <td>@word.GetWord()</td>
+  </tr>
+  }
+</table>
+<p><a href="/Anagram/new">Add another word</a></p>
+<form action="/Anagram/delete" method="post">
+  <button type="submit" name="button">Clear All Items</button>
+</form>
