@@ -1,32 +1,21 @@
-### _Practice C#_
-### Version 1.0
-#### By: Rio Atmadja
-#### Date: 07 April 2018
+### _Anagram_
+#### By: Brian Henry
+#### Date: April 24th 2018
 
 ##### Description
-- Collections of practices to get acquainted with C# 
+- A C# program to rearrange letters in a anagram
 
 ##### Setup/Installation Requirements
-* .NET 
-* C# 
+* .NET
+* C#
+* HTML
 ##### Known Bugs
-_So far there are no bugs_
+_No Known Bugs_
 
 #### Support and contact details
-_If you run into a problem, contact us at abc@epicodus.com_
+_Brian Henry 94brianhenry@gmail.com_
 
 ### License
-* This program is free software: you can redistribute it and/or modify
-* it under the terms of the GNU General Public License as published by
-* the Free Software Foundation, either version 3 of the License, or
-* (at your option) any later version.
-*
-* This program is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-* GNU General Public License for more details.
-*
-* You should have received a copy of the GNU General Public License
-* along with this program.  If not, see <http://www.gnu.org/licenses/>.
-* Copyright (c) 2018 _rio atmadja@epicodus_
+* MIT LICENSE
+* Copyright (c) 2018 _Brian Henry_
 ####
